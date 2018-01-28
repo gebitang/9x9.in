@@ -1,4 +1,4 @@
-baseURL = "http://geb.im"
+baseURL = "http://geb.im/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "blackburn"
