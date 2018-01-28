@@ -4,3 +4,9 @@ build:
     - arjen/hugo-build:
         version: "0.17"
         theme: purehugo
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: geb.im
+        basedir: public
