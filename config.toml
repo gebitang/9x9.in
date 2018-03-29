@@ -1,6 +1,6 @@
-baseURL = "http://geb.im/"
+baseURL = "http://9x9.in/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "9x9.in"
 theme = "blackburn"
 
 
@@ -14,6 +14,7 @@ theme = "blackburn"
   highlightjs = "androidstudio"
   highlightjs_extra_languages = ["yaml"]
   dateFormat = "2006-01-02"
+  subtitle = "努力只需九成九 剩下一分看天赋"
 
 [menu]
   # Shown in the side menu.
