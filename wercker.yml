@@ -10,5 +10,5 @@ deploy:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: geb.im
+        domain: 9x9.in
         basedir: public
