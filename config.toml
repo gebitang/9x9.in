@@ -14,7 +14,7 @@ theme = "blackburn"
   highlightjs = "androidstudio"
   highlightjs_extra_languages = ["yaml"]
   dateFormat = "2006-01-02"
-  subtitle = "努力不需要百分百，九成九就够了，因为剩下的1%……看天分"
+  subtitle = "努力九成九，天赋一分足"
 
 [menu]
   # Shown in the side menu.
