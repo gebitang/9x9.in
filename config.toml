@@ -14,7 +14,7 @@ theme = "blackburn"
   highlightjs = "androidstudio"
   highlightjs_extra_languages = ["yaml"]
   dateFormat = "2006-01-02"
-  subtitle = "努力九成九，三九为午"
+  subtitle = "知行合一"
 
 [menu]
   # Shown in the side menu.
